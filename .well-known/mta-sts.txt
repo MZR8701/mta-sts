@@ -1,6 +1,4 @@
 version: STSv1
 mode: enforce
 mx: zeldaandrocky-com.mail.protection.outlook.com
-mx: zeldaandrocky-com-au.mail.protection.outlook.com
-mx: zeldaandrocky-coffee.mail.protection.outlook.com
 max_age: 604800
